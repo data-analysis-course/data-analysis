@@ -1,40 +1,97 @@
 # Data Analysis Course
-
 ## Technologies
-
-- [NumPy](./numpy/)
-- [Pandas](./pandas/)
-- [SQL](./sql/)
-- [Power BI](./power-bi/)
-- [Tableau](./tableau/)
-- [Excel](./excel/)
-- [Final Work](./final-work/)
-
+- NumPy
+- Pandas
+- SQL
+- Power BI
+- Tableau
+- Matplotlib
+- Excel
+- Final Work
 ## NumPy Labs
+- Lab 00: Introduction to NumPy
+- Lab 01: Arrays
+- Lab 02: Indexing & Slicing
+- Lab 03: Aggregation & Axis
+- Lab 04: Vectorization & Broadcasting
+- Lab 05: Reshape & Stacking
+- Final Project on NumPy
+## 1. Create Your Repository
 
-- [Lab 01: Arrays](./numpy/lab01-arrays/)
-- [Lab 02: Indexing & Slicing](./numpy/lab02-indexing-slicing/)
-- [Lab 03: Aggregation & Axis](./numpy/lab03-aggregation-axis/)
-- [Lab 04: Vectorization & Broadcasting](./numpy/lab04-vectorization-broadcasting/)
-- [Lab 05: Reshape & Stacking](./numpy/lab05-reshape-stacking/)
+Create a private repository from the course template:
 
-## Сдача лабораторных
+**Use this template → Create a new repository → Private**
 
-1. Создайте приватный репозиторий из шаблона (**Use this template → Create a new repository → Private**).
-2. Добавьте преподавателя соавтором: **Settings → Collaborators → Add people** → `(https://github.com/nagomiro)`. Убедитесь, что приглашение принято.
-3. Для каждой лабы создавайте ветку от `main`: `технология-labNN-фамилия` (например, `numpy-lab01-ivanov`).
-4. Файлы лабы кладите только в её папку (например, `numpy/lab01-arrays/`).
-5. Минимум два осмысленных коммита. `.venv/` не коммитить.
-6. Отправьте изменения в ветку лабы **до DEADLINE**.
-7. Отправьте преподавателю сообщением:
+# 2. Add the Instructor as a Collaborator
+- Open your repository.
+- Navigate to Settings → Collaborators → Add people.
+- Enter the instructor's GitHub username: **nagomiro**.
+- Send the invitation and make sure it has been accepted.
 
-```text
-Repository: [https://github.com/your-username/data-analysis](https://github.com/your-username/data-analysis)
-Branch: numpy-lab01-surname
-```
+**This step is required once per repository.**
 
-## Требования
+# 3. Create a Separate Branch for Each Lab
 
+Create a new branch from main for each laboratory.
+
+Use the following naming convention:
+
+technology-labNN-surname
+
+**Examples:**
+
+- numpy-lab00-ivanov
+- numpy-lab01-ivanov
+- numpy-lab02-ivanov
+
+Replace technology, NN, and surname with the appropriate values.
+
+## 4. Organize Your Files
+
+Keep all files for a laboratory in its corresponding directory.
+
+**Example:**
+
+numpy/lab01-arrays/
+
+**Do not place laboratory files in unrelated directories.**
+
+## 5. Commit Your Work
+
+Make at least two meaningful commits per laboratory.
+
+Commit messages should clearly describe the changes made.
+
+**Examples:**
+
+- Complete array creation exercises
+- Add solutions for array operations
+
+Do not commit .venv/ or __pycache__/.
+
+## 6. Submit Before the Deadline
+
+Push your completed work to the corresponding laboratory branch before the deadline specified in that laboratory's README.
+
+Make sure your latest changes are available on GitHub before the deadline.
+
+## 7. Send Your Submission
+
+Send the instructor a message containing your repository URL and the branch name for the laboratory being submitted.
+
+**Example:**
+
+Repository: https://github.com/your-username/data-analysis
+**Branch: numpy-lab01-ivanov**
+
+Submit each laboratory separately by specifying the appropriate branch.
+
+- Requirements
 - Python 3.x
-- Virtual environment (`.venv/`)
-- Do not commit `.venv/` or `__pycache__/`
+- A virtual environment (.venv/)
+- Do not commit .venv/ or __pycache__/.
+- Keep your repository private.
+- Ensure the instructor has accepted collaborator access.
+- Use a separate branch for each laboratory.
+- Make at least two meaningful commits per laboratory.
+- Follow the deadline specified in each laboratory's README.
