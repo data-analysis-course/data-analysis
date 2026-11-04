@@ -1,4 +1,4 @@
-## Project Submission and Defense Announcement
+## Project Submission and Defense
 All assignment variants and their corresponding datasets have been uploaded.
 
 Please check the student_variant_distribution.xlsx file to find your assigned variant and the order in which students will submit and defend their projects.
