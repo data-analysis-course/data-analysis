@@ -1,3 +1,4 @@
+# Variant 14. Mobile App Sales and Usage Analysis
 You are a data analyst for a company operating in the **Mobile App Sales and Usage** domain in Kyrgyzstan. Management needs an evidence-based report to support decisions. All monetary amounts are in KGS. Each row represents one record; the ID column identifies it. Data are synthetic.
 
 ## Dataset files
