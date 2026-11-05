@@ -1,3 +1,4 @@
+# Variant 25. Online Education Platform Analysis
 You are a data analyst for a company operating in the **Online Education Platform Analysis** domain in Kyrgyzstan. Management needs an evidence-based report to support decisions. All monetary amounts are in KGS. Each row represents one record; the ID column identifies it. Data are synthetic.
 
 ## Dataset files
