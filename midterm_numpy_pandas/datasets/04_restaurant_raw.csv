@@ -1,4 +1,4 @@
-,Tip Amount,Payment Method,Customer Count,Waiter,Unit Price,Quantity,dish_name_raw,Dish Category,Meal Type,Order Date,Branch,Order ID
+Tip Amount,Payment Method,Customer Count,Waiter,Unit Price,Quantity,dish_name_raw,Dish Category,Meal Type,Order Date,Branch,Order ID
 30,Basic,No,Premium,360,38,Yes,Category A,Standard,15/6/25,Bishkek,04_-00000
 0,Basic,No,Premium,845,21,Yes,Category B,Premium,28.11.2024,Bishkek,04_-00001
 65,Basic,No,Premium,280,16,Yes,Category A,Premium,8/12/24,Bishkek,04_-00002
